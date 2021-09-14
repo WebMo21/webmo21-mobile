@@ -210,7 +210,7 @@ The next features which should be implemented are:
 
 The Team (as visible below) worked together with a variety of different online tools to achieve the project outcome. Some of them are:
 
-- [Visual Studio](https://code.visualstudio.com) Code as code editor of choice
+- [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) as code editor of choice
 - [Discord](https://discord.com) for communication & screen sharing useful for digital pair programming
 - [Git](https://git-scm.com) for working together on the codebase
 
