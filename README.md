@@ -10,7 +10,7 @@ A modern mobile application enabling users scheduling and organization of fitnes
 
 🖥️ [VISIT BACKEND REPOSITORY](https://github.com/WebMo21/webmo21-backend)
 
-📱 [VISIT MOBILE APP REPOSITORY](https://github.com/WebMo21/webmo21-mobile)
+📱  [VISIT MOBILE APP REPOSITORY](https://github.com/WebMo21/webmo21-mobile)
  
 ![Preview Landing Page](preview-fitness-time-landing-page.gif)
 ![Preview Dashboard](preview-fitness-time-dashboard.gif)
